@@ -1,0 +1,9 @@
+Shiny gallows
+You are about to be hanged by the ghost on a shiny gallows. 
+However, the ghost wants to play a game with you before execution.
+If you win, you can escape death. 
+If you lose, well, have fun on the shiny gallows.
+
+The ghost is asking you to guess a English word with 8 letters.
+You have 7 chances to guess one letter or the whole word wrong.
+If you filled each letter of the word or you guessed the word right,you win and escape the destiny of being hanged.
